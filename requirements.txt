@@ -1,0 +1,35 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.7.2
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+cryptography==42.0.7
+distlib==0.3.7
+dj-rest-auth==6.0.0
+Django==4.2.6
+django-allauth==0.63.3
+django-rest-framework==0.1.0
+djangorestframework==3.15.0
+filelock==3.13.1
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/future-0.18.2-py3-none-any.whl
+idna==3.7
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
+numpy==1.26.4
+oauthlib==3.2.2
+pandas==2.2.1
+platformdirs==3.11.0
+psycopg2==2.9.9
+py4j==0.10.9.7
+pycparser==2.22
+PyJWT==2.8.0
+pyspark==3.5.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+requests==2.32.3
+requests-oauthlib==2.0.0
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2024.1
+urllib3==2.2.1
+virtualenv==20.24.6
